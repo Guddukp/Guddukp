@@ -1,11 +1,12 @@
 #### Hi there, I'm Guddu Kumar 👋👋
 
-## I'm a Full Stack Developer, who love to code! 
+## I'm a Cloud Software Engineer with over 4 years of experience developing innovative solutions using AWS, Linux, Jenkins, Ansible, Docker, Kubernetes, Terraform & many more. Skilled in delivering scalable, efficient, and high-quality software products. Possesses a solid foundation in designing, optimizing, and managing databases.Passionate about staying updated with the latest industry trends and incorporating them in my work.
 
-- 🌱 I’m currently learning React, Javascript, Nodejs and Firebase.
+- 🌱 I’m currently aws · Linux · DevOps · python · Jenkins · Ansible · docker· Kubernetes · Terraform · AWS Cloud automation · CI & CD on AWS · IAM· Ec2 Instances, EBS Volumes, ELB · Amazon S3 · Amazon CloudWatch ·Amazon Relational Database Service (RDS) · AWS Auto Scaling · AmazonRoute 53 · Vagrant (Software) · Git
+Associate Software.
 - 👯 I’m looking to collaborate with other passionate developers.
-- 🥅 2021 Goals: Master React, Complete MERN Stack. Contribute to Open Source projects.
-- ⚡ Fun fact: I love to make delicious food on my free time.
+- 🥅 2025 Goals: Complete Cloud Architect. Contribute to open-source projects.
+- ⚡ Fun fact: I love to make delicious food in my free time.
 
 ### Languages and Tools:
 
